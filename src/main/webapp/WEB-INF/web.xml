@@ -17,7 +17,7 @@
 	</servlet>
 
 	<servlet-mapping>
-		<servlet-name>jersey-servlet </servlet-name>
+		<servlet-name>jersey-servlet</servlet-name>
 		<url-pattern>/*</url-pattern>
 	</servlet-mapping>
 </web-app>
